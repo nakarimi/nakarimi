@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **React Based Project**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01711f5fbd38ebde41](https://www.upwork.com/freelancers/~01711f5fbd38ebde41)
 
 - 💬 Ask me about **PHP, JavaScript, Laravel, Drupal, Angular, jQuery**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RCHdWL8wt-5rzc5i3oTPmnQmMlpJkpaYAGyufe7JyAg/export?format=pdf](https://docs.google.com/document/d/1RCHdWL8wt-5rzc5i3oTPmnQmMlpJkpaYAGyufe7JyAg/export?format=pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
