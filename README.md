@@ -54,10 +54,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
       alt="laravel" width="40" height="40" />
   </a>
-  <a href="https://drupal.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.drupal.org/files/styles/grid-2-2x-square/public/announcements/drupal-evergreen-logo-280X280px_2.png"
-      alt="Drupal" width="40" height="40" />
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
