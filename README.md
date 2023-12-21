@@ -19,7 +19,7 @@
   
 <a href="mailto:nasseralikarimi@gmail.com" title="Mail to: nasseralikarimi@gmail.com" target="blank"><img align="center" src="https://i0.wp.com/theictbook.com/wp-content/uploads/2019/01/gmail-1162901_1280.png" alt="9246" height="30" width="40" /></a>
 
-<a href="https://wa.me/93766241789" title="https://wa.me/93766241789" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" alt="9246" height="30" width="40" /></a>
+<a href="https://wa.me/93766241789" title="https://wa.me/93766241789" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" alt="9246" height="40" width="40" /></a>
 
 </p>
 
