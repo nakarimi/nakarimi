@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nasser</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Green Hydrogen Standard](https://gh2.org/)
+- 🔭 I’m currently working on [CourseCo](courseco.co)
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Express**
 
 - 👯 I’m looking to collaborate on **React Based Project**
 
 
-- 💬 Ask me about **PHP, JavaScript, Laravel, Drupal, Angular, jQuery**
+- 💬 Ask me about **PHP, JavaScript, React, Laravel, Drupal, Angular, jQuery**
 
 
 <h3 align="left">Connect with me:</h3>
