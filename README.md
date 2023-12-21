@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasser</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [CourseCo](https://courseco.co/)
+- 🔭 I’m currently working on [CourseCo](https://www.linkedin.com/company/courseco/)
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Express**
 
